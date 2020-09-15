@@ -1,3 +1,4 @@
 def square_array(array)
-    puts array
+    numbers = []
+    array.each do |square| 
 end
